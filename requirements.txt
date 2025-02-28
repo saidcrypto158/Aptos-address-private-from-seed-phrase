@@ -1,0 +1,3 @@
+bip-utils
+aptos-sdk
+colorama
